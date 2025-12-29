@@ -1,4 +1,4 @@
-for local build: docker build -f todoapp:1.0.0
+for local build: docker build -t todoapp:1.0.0 .
 
 Link to app: https://hub.docker.com/r/adryga/todoapp/tags
 
